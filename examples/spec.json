@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "requirements": [
+    {
+      "id": "REQ-1",
+      "criterion": "The synthetic sample sentence has been manually read",
+      "artifact": "artifact.txt",
+      "evidence": "review.txt",
+      "method": "manual",
+      "status": "pass",
+      "checker": "synthetic-demo-review",
+      "checker_version": "1"
+    }
+  ]
+}
